@@ -1,1 +1,3 @@
 remote.origin.url should be cloned from git clone https://{USERNAME}:{GIT_TOKEN}@github.com/aberfoyle/stuff
+
+To replace remote.origin.url you need: git remote set-url origin https://{USERNAME}:{NEW_GIT_TOKEN}@github.com/aberfoyle/stuff
