@@ -1,0 +1,1 @@
+remote.origin.url should be cloned from git clone https://a{USERNAME}:{GIT_TOKEN}@github.com/aberfoyle/stuff
